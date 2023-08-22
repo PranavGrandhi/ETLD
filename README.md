@@ -24,7 +24,9 @@ $ python ./setup.py install
 Use mathematical derivation to predict contacts from "dhfr.fa".
 
 "dhfr.fa" from PLMDCA software. [1]
+
 [1] Ekeberg M, Lovkvist C, Lan Y H, et al. Improved contact prediction in proteins: using pseudolikelihoods to infer Potts models [J]. Phys Rev E, 2013, 87(1): 012707.
+
 ```
 $ cd example/run_example_1
 $ python run_example.py
@@ -37,6 +39,7 @@ $ python contprec_example.py
 Predicting the mutation effects of "BLAT_ECOLX" using "BLAT_ECOLX_1_b0.5.aln".
 
 "BLAT_ECOLX_1_b0.5.aln" and "BLAT_ECOLX_Ranganathan2015.csv" from Riesselman et al [2]. 
+
 [2] Riesselman A J, Ingraham J B, Marks D S. Deep generative models of genetic variation capture the effects of mutations [J]. Nat Methods, 2018, 15(10): 816-22.
 
 ```
