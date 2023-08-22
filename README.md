@@ -1,5 +1,6 @@
 ### ETLD
 encoder-transformation layer-decoder
+You can get more understanding through this article (https://doi.org/10.1093/bib/bbad290).
 
 Models require PyTorch. We tested on `v1.12.1`, and `1.13.1`. 
 
