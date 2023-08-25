@@ -34,9 +34,9 @@ $ python contprec_example.py
 
 Predicting the mutation effects of "BLAT_ECOLX" using "BLAT_ECOLX_1_b0.5.aln".
 
-"BLAT_ECOLX_1_b0.5.aln" and "BLAT_ECOLX_Ranganathan2015.csv" from Riesselman et al [2]. 
+"BLAT_ECOLX_1_b0.5.aln" and "BLAT_ECOLX_Ranganathan2015.csv" from Riesselman et al [1]. 
 
-[2] Riesselman A J, Ingraham J B, Marks D S. Deep generative models of genetic variation capture the effects of mutations [J]. Nat Methods, 2018, 15(10): 816-22.
+[1] Riesselman A J, Ingraham J B, Marks D S. Deep generative models of genetic variation capture the effects of mutations [J]. Nat Methods, 2018, 15(10): 816-22.
 
 ```
 $ cd example/run_example_2
@@ -47,7 +47,7 @@ $ python mutprec_example.py
 
 # run_example_3
 
-Use ResNet to predict contacts from "dhfr.fa".
+Use ResNet to predict contacts from "dyr_ecoli.fa" in run_example_1.
 
 ```
 $ cd example/run_example_3
