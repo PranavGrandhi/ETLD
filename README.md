@@ -21,11 +21,7 @@ $ python ./setup.py install
 
 # run_example_1
 
-Use mathematical derivation to predict contacts from "dhfr.fa".
-
-"dhfr.fa" from PLMDCA software. [1]
-
-[1] Ekeberg M, Lovkvist C, Lan Y H, et al. Improved contact prediction in proteins: using pseudolikelihoods to infer Potts models [J]. Phys Rev E, 2013, 87(1): 012707.
+Use mathematical derivation to predict contacts from "dyr_ecoli.fa".
 
 ```
 $ cd example/run_example_1
