@@ -1,0 +1,19 @@
+ROOT_DIR C:\Users\prana\Desktop\ETLD\example\run_example_1\dyr_ecoli
+DATA_PARAMS dyr_ecoli DataSet       dyr_ecoli
+DATA_PARAMS dyr_ecoli Theta              0.2
+DATA_PARAMS dyr_ecoli Ts_of_Seq_Len        0
+DATA_PARAMS dyr_ecoli Neff          1517.953857421875
+DATA_PARAMS dyr_ecoli Seq_Nums          3629
+DATA_PARAMS dyr_ecoli Seq_Length         160
+DATA_PARAMS dyr_ecoli Alphabet_Size       20
+DATA_PARAMS dyr_ecoli Vocab_Size          22
+TRAIN_END dyr_ecoli | training_complete_in  00:00:07 | acc  0.71
+TRAIN_END dyr_ecoli | training_complete_in  00:00:06 | acc  0.71
+TRAIN_END dyr_ecoli | training_complete_in  00:00:06 | acc  0.71
+TRAIN_END dyr_ecoli | training_complete_in  00:00:06 | acc  0.71
+TRAIN_END dyr_ecoli | training_complete_in  00:00:06 | acc  0.71
+TRAIN_END dyr_ecoli | training_complete_in  00:00:06 | acc  0.70
+TRAIN_END dyr_ecoli | training_complete_in  00:00:06 | acc  0.71
+TRAIN_END dyr_ecoli | training_complete_in  00:00:06 | acc  0.71
+TRAIN_END dyr_ecoli | training_complete_in  00:00:06 | acc  0.71
+TRAIN_END dyr_ecoli | training_complete_in  00:00:06 | acc  0.70

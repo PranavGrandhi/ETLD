@@ -1,0 +1,29 @@
+MUTANT_CSV blat_ecolx BLAT_ECOLX_Ranganathan2015.csv
+Create Mutant File ./blat_ecolx/blat_ecolx_mutant.fa From BLAT_ECOLX_Ranganathan2015.csv
+DATA_PARAMS blat_ecolx DataSet       blat_ecolx
+DATA_PARAMS blat_ecolx Theta              0.2
+DATA_PARAMS blat_ecolx Ts_of_Seq_Len        0
+DATA_PARAMS blat_ecolx Neff            4789.0
+DATA_PARAMS blat_ecolx Seq_Nums          4789
+DATA_PARAMS blat_ecolx Seq_Length         253
+DATA_PARAMS blat_ecolx Alphabet_Size       20
+DATA_PARAMS blat_ecolx Vocab_Size          22
+SPEARMANR blat_ecolx | expr_key 0 | N 4788 | Spearmanr 0.1682001909219004 | p-val 1.0160255570494068e-31
+SPEARMANR blat_ecolx | expr_key 39 | N 4788 | Spearmanr 0.29006681054457173 | p-val 1.8066785767074612e-93
+SPEARMANR blat_ecolx | expr_key 156 | N 4788 | Spearmanr 0.4720059466912915 | p-val 2.7959356468840133e-264
+SPEARMANR blat_ecolx | expr_key 625 | N 4788 | Spearmanr 0.648064397846153 | p-val 0.0
+SPEARMANR blat_ecolx | expr_key 2500 | N 4788 | Spearmanr 0.7903384461882383 | p-val 0.0
+SPEARMANR blat_ecolx | expr_key cefotaxime | N 4769 | Spearmanr -0.08559272514964478 | p-val 3.215996343787856e-09
+SPEARMANR blat_ecolx | expr_key 0_1 | N 4788 | Spearmanr 0.03956821463690911 | p-val 0.006175866864227566
+SPEARMANR blat_ecolx | expr_key 0_2 | N 4769 | Spearmanr 0.23093591707511615 | p-val 9.237847998700822e-59
+SPEARMANR blat_ecolx | expr_key 10_1 | N 4655 | Spearmanr 0.1066194379323696 | p-val 3.026179108512986e-13
+SPEARMANR blat_ecolx | expr_key 39_1 | N 4788 | Spearmanr 0.30307950613101636 | p-val 2.769261252969169e-102
+SPEARMANR blat_ecolx | expr_key 39_2 | N 4769 | Spearmanr 0.2695422173645056 | p-val 3.572392915324269e-80
+SPEARMANR blat_ecolx | expr_key 156_1 | N 4788 | Spearmanr 0.48234068588471174 | p-val 1.459760204639273e-277
+SPEARMANR blat_ecolx | expr_key 156_2 | N 4769 | Spearmanr 0.4452064063680231 | p-val 5.546401932930217e-231
+SPEARMANR blat_ecolx | expr_key 625_1 | N 4788 | Spearmanr 0.6210608513889451 | p-val 0.0
+SPEARMANR blat_ecolx | expr_key 625_2 | N 4769 | Spearmanr 0.6447843071931141 | p-val 0.0
+SPEARMANR blat_ecolx | expr_key 2500_1 | N 4788 | Spearmanr 0.7918059508881481 | p-val 0.0
+SPEARMANR blat_ecolx | expr_key 2500_2 | N 4769 | Spearmanr 0.774884531360736 | p-val 0.0
+SPEARMANR blat_ecolx | expr_key km | N 4788 | Spearmanr 0.13438410519226968 | p-val 9.750766099419921e-21
+SPEARMANR blat_ecolx | expr_key vmax | N 4788 | Spearmanr 0.7327534313025191 | p-val 0.0

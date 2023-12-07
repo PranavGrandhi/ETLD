@@ -1,0 +1,119 @@
+ROOT_DIR C:\Users\prana\Desktop\ETLD\example\run_example_2\blat_ecolx
+DATA_PARAMS blat_ecolx DataSet       blat_ecolx
+DATA_PARAMS blat_ecolx Theta              0.2
+DATA_PARAMS blat_ecolx Ts_of_Seq_Len        0
+DATA_PARAMS blat_ecolx Neff          3584.900146484375
+DATA_PARAMS blat_ecolx Seq_Nums         14691
+DATA_PARAMS blat_ecolx Seq_Length         253
+DATA_PARAMS blat_ecolx Alphabet_Size       20
+DATA_PARAMS blat_ecolx Vocab_Size          22
+TRAIN blat_ecolx | epoch   0 | time  4.94s | lr 0.004 | train_loss  1.69 | train_acc  0.54 
+TRAIN blat_ecolx | epoch   1 | time  2.60s | lr 0.003 | train_loss  1.34 | train_acc  0.63 
+TRAIN blat_ecolx | epoch   2 | time  2.59s | lr 0.002 | train_loss  1.26 | train_acc  0.65 
+TRAIN blat_ecolx | epoch   3 | time  2.61s | lr 0.002 | train_loss  1.21 | train_acc  0.66 
+TRAIN blat_ecolx | epoch   4 | time  2.59s | lr 0.002 | train_loss  1.17 | train_acc  0.67 
+TRAIN blat_ecolx | epoch   5 | time  2.59s | lr 0.002 | train_loss  1.14 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   6 | time  2.60s | lr 0.002 | train_loss  1.12 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   7 | time  2.62s | lr 0.001 | train_loss  1.10 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   8 | time  2.84s | lr 0.001 | train_loss  1.09 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   9 | time  2.75s | lr 0.001 | train_loss  1.08 | train_acc  0.70 
+TRAIN_END blat_ecolx | training_complete_in  00:00:28 | acc  0.70
+TRAIN blat_ecolx | epoch   0 | time  2.75s | lr 0.004 | train_loss  1.68 | train_acc  0.54 
+TRAIN blat_ecolx | epoch   1 | time  2.68s | lr 0.003 | train_loss  1.34 | train_acc  0.63 
+TRAIN blat_ecolx | epoch   2 | time  2.78s | lr 0.002 | train_loss  1.26 | train_acc  0.65 
+TRAIN blat_ecolx | epoch   3 | time  2.78s | lr 0.002 | train_loss  1.21 | train_acc  0.67 
+TRAIN blat_ecolx | epoch   4 | time  2.72s | lr 0.002 | train_loss  1.17 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   5 | time  2.93s | lr 0.002 | train_loss  1.14 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   6 | time  2.92s | lr 0.002 | train_loss  1.12 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   7 | time  2.91s | lr 0.001 | train_loss  1.10 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   8 | time  2.86s | lr 0.001 | train_loss  1.09 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   9 | time  3.10s | lr 0.001 | train_loss  1.08 | train_acc  0.70 
+TRAIN_END blat_ecolx | training_complete_in  00:01:46 | acc  0.70
+TRAIN blat_ecolx | epoch   0 | time  2.81s | lr 0.004 | train_loss  1.68 | train_acc  0.54 
+TRAIN blat_ecolx | epoch   1 | time  2.62s | lr 0.003 | train_loss  1.34 | train_acc  0.63 
+TRAIN blat_ecolx | epoch   2 | time  2.61s | lr 0.002 | train_loss  1.26 | train_acc  0.65 
+TRAIN blat_ecolx | epoch   3 | time  2.63s | lr 0.002 | train_loss  1.21 | train_acc  0.67 
+TRAIN blat_ecolx | epoch   4 | time  2.61s | lr 0.002 | train_loss  1.18 | train_acc  0.67 
+TRAIN blat_ecolx | epoch   5 | time  2.60s | lr 0.002 | train_loss  1.15 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   6 | time  2.65s | lr 0.002 | train_loss  1.13 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   7 | time  2.67s | lr 0.001 | train_loss  1.11 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   8 | time  2.66s | lr 0.001 | train_loss  1.09 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   9 | time  2.65s | lr 0.001 | train_loss  1.08 | train_acc  0.70 
+TRAIN_END blat_ecolx | training_complete_in  00:00:26 | acc  0.70
+TRAIN blat_ecolx | epoch   0 | time  2.72s | lr 0.004 | train_loss  1.67 | train_acc  0.55 
+TRAIN blat_ecolx | epoch   1 | time  2.66s | lr 0.003 | train_loss  1.34 | train_acc  0.63 
+TRAIN blat_ecolx | epoch   2 | time  2.70s | lr 0.002 | train_loss  1.26 | train_acc  0.65 
+TRAIN blat_ecolx | epoch   3 | time  2.68s | lr 0.002 | train_loss  1.21 | train_acc  0.67 
+TRAIN blat_ecolx | epoch   4 | time  2.72s | lr 0.002 | train_loss  1.17 | train_acc  0.67 
+TRAIN blat_ecolx | epoch   5 | time  2.68s | lr 0.002 | train_loss  1.14 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   6 | time  2.69s | lr 0.002 | train_loss  1.12 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   7 | time  2.68s | lr 0.001 | train_loss  1.11 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   8 | time  2.71s | lr 0.001 | train_loss  1.09 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   9 | time  2.84s | lr 0.001 | train_loss  1.08 | train_acc  0.69 
+TRAIN_END blat_ecolx | training_complete_in  00:00:27 | acc  0.69
+TRAIN blat_ecolx | epoch   0 | time  2.78s | lr 0.004 | train_loss  1.68 | train_acc  0.55 
+TRAIN blat_ecolx | epoch   1 | time  2.73s | lr 0.003 | train_loss  1.33 | train_acc  0.64 
+TRAIN blat_ecolx | epoch   2 | time  2.74s | lr 0.002 | train_loss  1.25 | train_acc  0.66 
+TRAIN blat_ecolx | epoch   3 | time  2.73s | lr 0.002 | train_loss  1.20 | train_acc  0.67 
+TRAIN blat_ecolx | epoch   4 | time  2.70s | lr 0.002 | train_loss  1.17 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   5 | time  2.72s | lr 0.002 | train_loss  1.14 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   6 | time  2.65s | lr 0.002 | train_loss  1.12 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   7 | time  2.70s | lr 0.001 | train_loss  1.10 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   8 | time  2.66s | lr 0.001 | train_loss  1.09 | train_acc  0.70 
+TRAIN blat_ecolx | epoch   9 | time  2.67s | lr 0.001 | train_loss  1.08 | train_acc  0.70 
+TRAIN_END blat_ecolx | training_complete_in  00:00:27 | acc  0.70
+TRAIN blat_ecolx | epoch   0 | time  2.71s | lr 0.004 | train_loss  1.69 | train_acc  0.55 
+TRAIN blat_ecolx | epoch   1 | time  2.72s | lr 0.003 | train_loss  1.34 | train_acc  0.63 
+TRAIN blat_ecolx | epoch   2 | time  2.73s | lr 0.002 | train_loss  1.26 | train_acc  0.65 
+TRAIN blat_ecolx | epoch   3 | time  2.73s | lr 0.002 | train_loss  1.21 | train_acc  0.66 
+TRAIN blat_ecolx | epoch   4 | time  2.72s | lr 0.002 | train_loss  1.18 | train_acc  0.67 
+TRAIN blat_ecolx | epoch   5 | time  2.72s | lr 0.002 | train_loss  1.15 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   6 | time  2.71s | lr 0.002 | train_loss  1.13 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   7 | time  2.71s | lr 0.001 | train_loss  1.11 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   8 | time  2.75s | lr 0.001 | train_loss  1.09 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   9 | time  2.78s | lr 0.001 | train_loss  1.08 | train_acc  0.69 
+TRAIN_END blat_ecolx | training_complete_in  00:00:27 | acc  0.69
+TRAIN blat_ecolx | epoch   0 | time  2.75s | lr 0.004 | train_loss  1.68 | train_acc  0.55 
+TRAIN blat_ecolx | epoch   1 | time  2.73s | lr 0.003 | train_loss  1.34 | train_acc  0.63 
+TRAIN blat_ecolx | epoch   2 | time  2.74s | lr 0.002 | train_loss  1.27 | train_acc  0.65 
+TRAIN blat_ecolx | epoch   3 | time  2.74s | lr 0.002 | train_loss  1.22 | train_acc  0.66 
+TRAIN blat_ecolx | epoch   4 | time  2.73s | lr 0.002 | train_loss  1.18 | train_acc  0.67 
+TRAIN blat_ecolx | epoch   5 | time  2.75s | lr 0.002 | train_loss  1.15 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   6 | time  2.72s | lr 0.002 | train_loss  1.13 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   7 | time  2.73s | lr 0.001 | train_loss  1.11 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   8 | time  2.81s | lr 0.001 | train_loss  1.10 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   9 | time  2.78s | lr 0.001 | train_loss  1.08 | train_acc  0.69 
+TRAIN_END blat_ecolx | training_complete_in  00:00:27 | acc  0.69
+TRAIN blat_ecolx | epoch   0 | time  2.79s | lr 0.004 | train_loss  1.67 | train_acc  0.54 
+TRAIN blat_ecolx | epoch   1 | time  2.78s | lr 0.003 | train_loss  1.34 | train_acc  0.63 
+TRAIN blat_ecolx | epoch   2 | time  2.76s | lr 0.002 | train_loss  1.26 | train_acc  0.65 
+TRAIN blat_ecolx | epoch   3 | time  2.76s | lr 0.002 | train_loss  1.22 | train_acc  0.67 
+TRAIN blat_ecolx | epoch   4 | time  2.77s | lr 0.002 | train_loss  1.18 | train_acc  0.67 
+TRAIN blat_ecolx | epoch   5 | time  2.75s | lr 0.002 | train_loss  1.15 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   6 | time  2.77s | lr 0.002 | train_loss  1.13 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   7 | time  2.75s | lr 0.001 | train_loss  1.11 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   8 | time  2.77s | lr 0.001 | train_loss  1.10 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   9 | time  2.77s | lr 0.001 | train_loss  1.09 | train_acc  0.69 
+TRAIN_END blat_ecolx | training_complete_in  00:00:27 | acc  0.69
+TRAIN blat_ecolx | epoch   0 | time  2.78s | lr 0.004 | train_loss  1.69 | train_acc  0.54 
+TRAIN blat_ecolx | epoch   1 | time  2.77s | lr 0.003 | train_loss  1.34 | train_acc  0.63 
+TRAIN blat_ecolx | epoch   2 | time  2.77s | lr 0.002 | train_loss  1.26 | train_acc  0.65 
+TRAIN blat_ecolx | epoch   3 | time  2.75s | lr 0.002 | train_loss  1.22 | train_acc  0.66 
+TRAIN blat_ecolx | epoch   4 | time  2.77s | lr 0.002 | train_loss  1.18 | train_acc  0.67 
+TRAIN blat_ecolx | epoch   5 | time  2.77s | lr 0.002 | train_loss  1.15 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   6 | time  2.76s | lr 0.002 | train_loss  1.13 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   7 | time  2.79s | lr 0.001 | train_loss  1.11 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   8 | time  2.83s | lr 0.001 | train_loss  1.10 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   9 | time  2.84s | lr 0.001 | train_loss  1.08 | train_acc  0.69 
+TRAIN_END blat_ecolx | training_complete_in  00:00:27 | acc  0.69
+TRAIN blat_ecolx | epoch   0 | time  2.78s | lr 0.004 | train_loss  1.70 | train_acc  0.54 
+TRAIN blat_ecolx | epoch   1 | time  2.80s | lr 0.003 | train_loss  1.35 | train_acc  0.63 
+TRAIN blat_ecolx | epoch   2 | time  2.78s | lr 0.002 | train_loss  1.27 | train_acc  0.65 
+TRAIN blat_ecolx | epoch   3 | time  2.81s | lr 0.002 | train_loss  1.22 | train_acc  0.66 
+TRAIN blat_ecolx | epoch   4 | time  2.80s | lr 0.002 | train_loss  1.19 | train_acc  0.67 
+TRAIN blat_ecolx | epoch   5 | time  2.80s | lr 0.002 | train_loss  1.16 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   6 | time  2.78s | lr 0.002 | train_loss  1.14 | train_acc  0.68 
+TRAIN blat_ecolx | epoch   7 | time  2.77s | lr 0.001 | train_loss  1.12 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   8 | time  2.77s | lr 0.001 | train_loss  1.10 | train_acc  0.69 
+TRAIN blat_ecolx | epoch   9 | time  2.79s | lr 0.001 | train_loss  1.09 | train_acc  0.69 
+TRAIN_END blat_ecolx | training_complete_in  00:00:27 | acc  0.69
